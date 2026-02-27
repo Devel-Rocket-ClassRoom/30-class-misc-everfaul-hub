@@ -1,4 +1,12 @@
 using System;
+using System.Collections.ObjectModel;
 
-// README.md를 읽고 아래에 코드를 작성하세요.
-Console.WriteLine("코드를 작성하세요.");
+public class QueryBuilder
+{
+    private string _message = "";
+
+    public QueryBuilder Select(string text)
+    {
+
+    }
+}
